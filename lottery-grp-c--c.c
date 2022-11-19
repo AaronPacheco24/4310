@@ -1,7 +1,4 @@
-//Group C--CAb12
-//Huan Sheng Chen
-//Aaron pacheco
-//Eric Tran
+
 //Lottery Scheduler
 #include <unistd.h>
 #include <stdio.h>//
