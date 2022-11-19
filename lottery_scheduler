@@ -191,5 +191,4 @@ int main(){
     
     //displayList(head, &max_tix);
     return 0;
-    
 }
