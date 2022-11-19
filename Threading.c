@@ -1,10 +1,3 @@
-//Group C—C-AB12
-//Huan Sheng Chen (Steven)
-//Aaron Pacheco
-//Eric Tran
-//ECE – 4310 Section 2
-//Professor Oniciuc
-//Seminar 3 
 //Create a producer/consumer problem for the a "Raspberry PI" structure.
 //
 //    you should use 2 producers
