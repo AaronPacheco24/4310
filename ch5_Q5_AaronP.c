@@ -1,9 +1,4 @@
-//Seminar1 Question 5:  Now write a program that uses wait() to wait for the child process to finish in the parent. What does wait() return? What happens if
-//you use wait() in the child
-//Group C--CAB12
-//Aaron Pacheco
-//Huan Sheng Chen
-//Eric Tran
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/wait.h>
